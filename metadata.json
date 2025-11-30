@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MelodyFlow AI",
+  "description": "A modern, AI-powered music streaming interface. Features intelligent mood-based playlist generation using Gemini 2.5 Flash, a sleek dark-mode UI, and an interactive music player.",
+  "requestFramePermissions": []
+}
